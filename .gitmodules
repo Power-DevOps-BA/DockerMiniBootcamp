@@ -1,0 +1,3 @@
+[submodule "voting-app"]
+	path = voting-app
+	url = https://github.com/Azure-Samples/azure-voting-app-redis.git
